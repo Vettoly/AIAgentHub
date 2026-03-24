@@ -1,0 +1,11 @@
+{
+  "name": "ai-agent-hub",
+  "version": "0.1.0",
+  "dependencies": [
+    "nlohmann-json",
+    "curl",
+    "mysql-connector-cpp",
+    "boost-asio",
+    "boost-beast"
+  ]
+}

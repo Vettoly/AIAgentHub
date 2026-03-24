@@ -1,0 +1,21 @@
+# CMake 生成的构建目录
+build/
+out/
+bin/
+
+# 编译产生的临时文件与可执行文件
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.lib
+*.dll
+
+# VS Code / Visual Studio 配置目录
+.vscode/
+.vs/
+*.vcxproj
+*.sln
+
+# vcpkg 缓存
+vcpkg_installed/
